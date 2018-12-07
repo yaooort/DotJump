@@ -22,5 +22,9 @@
         DotView:num_dot="5"
         DotView:time_show = "3000"
         DotView:color_dot = "#ff8df2"/>
+    <ImageView
+        android:id="@+id/image_view_1"
+        android:layout_width="150dip"
+        android:layout_height="50dip" />
 
 </LinearLayout>
