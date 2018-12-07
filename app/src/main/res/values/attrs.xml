@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DotjumpView">
+        <attr name="color_dot" format="color" />
+        <attr name="num_dot" format="integer" />
+        <attr name="time_show" format="integer"/>
+    </declare-styleable>
+</resources>
