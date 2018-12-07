@@ -6,7 +6,7 @@ Android 自定义View实现小点跳动
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 ### Android效果图
-![](https://github.com/yaooort/DotJump/lib/master/Android/img/see.gif)
+![](https://raw.githubusercontent.com/yaooort/DotJump/master/app/lib/ia5df-r1k0a.gif)
 
 > 代码比较简单，方便修改
 
