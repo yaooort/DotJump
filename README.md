@@ -2,11 +2,11 @@
 Android 自定义View实现小点跳动
 
 
-### 星空效果
+### 跳动效果
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 ### Android效果图
-![](https://github.com/yaooort/ParticleView/blob/master/Android/img/see.gif)
+![](https://github.com/yaooort/DotJump/lib/master/Android/img/see.gif)
 
 > 代码比较简单，方便修改
 
